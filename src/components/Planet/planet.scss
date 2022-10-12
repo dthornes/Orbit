@@ -1,0 +1,17 @@
+.orbit {
+	border: 3px solid red;
+	border-radius: 50%;
+	height: 300px;
+	width: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.planet {
+	background-color: red;
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
